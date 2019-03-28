@@ -2,3 +2,6 @@
 
 temp/
 data/
+
+# Check Points
+.ipynb_checkpoints
